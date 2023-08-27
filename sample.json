@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 33,
+    "articles": [
+        {  
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Isobel Koshiw",
+            "title": "‘Terror campaign’ on Ukraine embassies continues with more bloody packages - The Guardian",
+            "description": "Eighteen embassies in 12 countries received packages, all sent from one unnamed European country",
+            "url": "https://www.theguardian.com/world/2022/dec/03/terror-campaign-on-ukraine-embassies-continues-with-more-bloody-packages",
+            "urlToImage": "https://i.guim.co.uk/img/media/6fe5def0e781c681d623c89ddb6a7d4ecf1ac801/55_265_3445_2066/master/3445.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2adbece5159278ffc26a3ac13d413fdd",
+            "publishedAt": "2022-12-03T13:16:00Z",
+            "content": "Eighteen Ukrainian diplomatic missions in 12 countries have received bloody packages in what Ukraine has described as a campaign of terror and intimidation. Oleh Nikolenko, a spokesperson from Ukrain… [+2763 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Carlos Greer, Sara Nathan, Emily Smith",
+            "title": "How GMA hosts Amy Robach and T.J. Holmes' romantic scandal happened - New York Post ",
+            "description": "Sex, lies and live TV. How the ABC hosts went from cheating — and not just with each other — to being unashamed of their romance.",
+            "url": "https://nypost.com/2022/12/03/inside-gma-hosts-amy-robach-and-t-j-holmes-romantic-scandal/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/12/tj-holmes-amy-robach-2.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2022-12-03T12:50:00Z",
+            "content": "It may be the happiest problem that Bob Iger, newly-reinstated president of ABC’s parent company Disney, will face as he retakes the reins of the conglomerate and its top-rated cash cow “Good Morning… [+9558 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "USA vs. Netherlands predictions, betting odds: Picking today's FIFA World Cup 2022 games; USMNT face big test - CBS Sports",
+            "description": "The knockout stages are upon us; it's win or go home for the United States as they face the Netherlands in Qatar",
+            "url": "https://www.cbssports.com/soccer/news/usa-vs-netherlands-predictions-betting-odds-picking-todays-fifa-world-cup-2022-games-usmnt-face-big-test/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/12/03/4cbbd414-4722-434a-889f-dcfd6f79bb69/thumbnail/1200x675/10329aa6153d04397cd584c0f10b9f5e/gettyimages-1446282394.jpg",
+            "publishedAt": "2022-12-03T12:15:00Z",
+            "content": "The group stage is over and it's time for the main event as the knockout rounds of the 2022 FIFA World Cup begin. There's no time for easing yourself into the games that matter as they start of with … [+4432 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Joshua Oliver",
+            "title": "Sam Bankman-Fried's trading shop was given special treatment on FTX for years - Financial Times",
+            "description": "Alameda Research was exempt from borrowing limits applied to exchange’s other clients, former billionaire tells FT",
+            "url": "https://www.ft.com/content/1e435a4e-e8f9-4330-be84-99c516630d4a",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff522b62b-0441-48b4-b114-f903b21345e8.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2022-12-03T11:58:21Z",
+            "content": "Alameda Research was allowed to exceed normal borrowing limits on the FTX exchange since its early days, Sam Bankman-Fried has said, in a concession that illustrates how the former billionaires tradi… [+4430 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tampa Bay Times"
+            },
+            "author": "Charlie Frago",
+            "title": "Tampa's police chief claims to live in the city — and also 40 minutes away - Tampa Bay Times",
+            "description": "Where police Chief Mary O’Connor lives matters because Tampa requires top city officials to live within city limits.",
+            "url": "https://www.tampabay.com/news/tampa/2022/12/02/tamparesidency-requirementsjane-castormary-oconnor/",
+            "urlToImage": "https://www.tampabay.com/resizer/0PGaS4L_r8w93uEezc5S6gVq36E=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/Z67BRNCT6VBQ7BCGDNRB5XFTJI.JPG",
+            "publishedAt": "2022-12-03T11:54:20Z",
+            "content": "TAMPA Its in the City Charter: Anyone who ranks as a departmentheador above has to live within city limits.\r\nPolice chief is explicitly mentioned as someone required to live in Tampa.\r\nYet in a video… [+4914 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Nikou Asgari, Joshua Oliver",
+            "title": "Crypto broker Genesis owes Winklevoss exchange's customers $900mn - Financial Times",
+            "description": "New York-based Gemini is trying to recover funds after FTX failure plunged market into turmoil",
+            "url": "https://www.ft.com/content/32977a99-c1c3-4f34-9ecc-4057217bf974",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffd8cdae9-afd7-4b11-9e6c-dacfc4ea0bbd.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2022-12-03T11:48:58Z",
+            "content": "Digital asset trading group Genesis and its parent company Digital Currency Group owe customers of the Winklevoss twins crypto exchange $900mn as the collapse of FTX reverberates across the market. \r… [+2519 chars]"
+        },
+        {
+            "source": {  
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Christopher Hickey, Nicholas Anastacio",
+            "title": "What we know about Georgia voters ahead of Senate runoff - CNN",
+            "description": "About 300,000 Georgians have voted early each day this week -- setting records for the largest single-day early voting turnout in state history.",
+            "url": "https://www.cnn.com/2022/12/03/politics/georgia-senate-runoff-voters-charts-warnock-walker-dg/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221201134147-early-voting-georgia-1129.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-03T11:01:00Z",
+            "content": "For the past two years, the eyes of the political world keep turning back to Georgia.\r\nAnd for the second time in two years, voters in this key state will choose their senator in a runoff election, w… [+4397 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Parents urged to be aware of Strep A symptoms after death of six children - BBC",
+            "description": "Health officials have issued a rare alert after a rise in cases across the UK and the death of six children.",
+            "url": "https://www.bbc.com/news/health-63844880",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4DA5/production/_127877891_illchildgetty2.jpg",
+            "publishedAt": "2022-12-03T10:47:19Z",
+            "content": "Media caption, Watch: How common is Strep A and what are the symptoms to watch out for?\r\nHealth officials are urging parents to look out for symptoms of Strep A after six children died with an invasi… [+4364 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ashley Strickland",
+            "title": "Astronauts will give the space station a power boost during Saturday spacewalk - CNN",
+            "description": "The International Space Station will receive a power boost during a spacewalk on Saturday, as NASA astronauts Josh Cassada and Frank Rubio install a solar array outside the floating laboratory.",
+            "url": "https://www.cnn.com/2022/12/03/world/nasa-solar-array-spacewalk-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221202165447-nasa-spacewalk-iss-expedition-68.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-03T10:10:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nThe International Space Station will receive a power b… [+3144 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "FedEx driver accused of kidnapping, murdering 7-year-old Athena Strand in North Texas - Fort Worth Star-Telegram",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiPmh0dHBzOi8vd3d3LnN0YXItdGVsZWdyYW0uY29tL25ld3MvbG9jYWwvYXJ0aWNsZTI2OTUyODg2Mi5odG1s0gE-aHR0cHM6Ly9hbXAuc3Rhci10ZWxlZ3JhbS5jb20vbmV3cy9sb2NhbC9hcnRpY2xlMjY5NTI4ODYyLmh0bWw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-12-03T06:17:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Gabe Lacques, USA TODAY",
+            "title": "Texas Rangers sign Jacob deGrom to five-year, $185 million deal in MLB free agency stunner - USA TODAY",
+            "description": "The two-time Cy Young winner had spent his entire career with the Mets, but missed most of the 2022 season due to injury.",
+            "url": "https://www.usatoday.com/story/sports/mlb/2022/12/02/jacob-degrom-texas-rangers-free-agent/10802760002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/11/30/USAT/7eb6fdda-13ec-48b1-8c18-f33aaac54381-USATSI_18925422.jpg?auto=webp&crop=1999,1125,x328,y54&format=pjpg&width=1200",
+            "publishedAt": "2022-12-03T05:26:15Z",
+            "content": "Jacob deGrom, the two-time Cy Young Award winner and one of baseball's most dominant pitchers even as injuries limited his availability, cashed in on his pedigree by agreeing to a stunning five-year,… [+4075 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Paolo Uggetti",
+            "title": "Utah repeats as Pac-12 champs, knocks USC out of playoff - ESPN",
+            "description": "No. 11 Utah played spoiler and proved it has USC's number this season with a 47-24, come-from-behind win over No. 4 USC to win its second-straight Pac-12 title and knock the Trojans out of the fourth playoff spot.",
+            "url": "https://www.espn.com/college-football/story/_/id/35168500/utah-repeats-pac-12-champs-knocks-usc-playoff",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1203%2Fr1101076_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-12-03T04:51:19Z",
+            "content": "LAS VEGAS -- The only blemish in USC's 11-win regular season had been a one-point loss to Utah in October. Thanks to the Pac-12's decision to turn its championship game into a matchup between its two… [+5712 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Prince William, Kate in Boston for Earthshot Prize - WPRI",
+            "description": "Prince William capped a three-day visit to Boston by meeting with President Joe Biden to share his vision for safeguarding the environment before attending a...",
+            "url": "https://www.youtube.com/watch?v=xQ08FgOCYfU",
+            "urlToImage": "https://i.ytimg.com/vi/xQ08FgOCYfU/maxresdefault.jpg",
+            "publishedAt": "2022-12-03T04:15:06Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Bruce Haring",
+            "title": "Twitter Releases Its Internal Communications On Hunter Biden Laptop Story - Deadline",
+            "description": "Twitter has released a tweetstorm of its internal discussions about its efforts to suppress the Hunter Biden laptop story Friday night via journalist Matt Taibbi. Most shocking revelation in the news, being delivered in a series of separate tweets, is that fo…",
+            "url": "https://deadline.com/2022/12/twitter-releases-internal-communications-hunter-biden-laptop-story-1235188088/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2022/10/GettyImages-1243763348.jpg?w=1024",
+            "publishedAt": "2022-12-03T04:14:00Z",
+            "content": "Twitter has released a tweetstorm of its internal discussions about its efforts to suppress the Hunter Bidenlaptop story Friday night via journalist Matt Taibbi.\r\nMost shocking revelation in the news… [+1084 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Yellowstone's underground lava river threatens natural disaster - study - The Jerusalem Post",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiQ2h0dHBzOi8vd3d3Lmpwb3N0LmNvbS9lbnZpcm9ubWVudC1hbmQtY2xpbWF0ZS1jaGFuZ2UvYXJ0aWNsZS03MjM5NTbSAUVodHRwczovL20uanBvc3QuY29tL2Vudmlyb25tZW50LWFuZC1jbGltYXRlLWNoYW5nZS9hcnRpY2xlLTcyMzk1Ni9hbXA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-12-03T03:58:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Haley Britzky, Ellie Kaufman",
+            "title": "Air Force unveils newest stealth bomber aircraft - CNN",
+            "description": "The Air Force on Friday unveiled its newest stealth bomber aircraft, the B-21 Raider, in Palmdale, California. Built by Northrop Grumman, the bomber was named in honor of the \"courageous spirit\" of airmen who carried out the surprise World War II Doolittle Ra…",
+            "url": "https://www.cnn.com/2022/12/02/politics/b-21-stealth-bomber-air-force/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221202185038-b-21-raider-unveiled.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-03T02:54:00Z",
+            "content": "The Air Force on Friday unveiled its newest stealth bomber aircraft, the B-21 Raider, in Palmdale, California. Built by Northrop Grumman, the bomber was named in honor of the courageous spirit of air… [+5360 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nintendo Life"
+            },
+            "author": "Liam Doolan",
+            "title": "A New Limited-Time Pokémon Scarlet & Violet Tera Raid Battle Has Begun - Nintendo Life",
+            "description": "Catch a special Charizard",
+            "url": "https://www.nintendolife.com/news/2022/12/a-new-limited-time-pokemon-scarlet-and-violet-tera-raid-battle-has-begun",
+            "urlToImage": "https://images.nintendolife.com/bfafa939867c3/1280x720.jpg",
+            "publishedAt": "2022-12-03T00:30:00Z",
+            "content": "Update [Sat 3rd Dec, 2022 00:30 GMT]: This event is currently underway, so if you haven't already joined in on the fun, do it while you still can. This Tera Raid Battle will run until the 4th of Dece… [+1468 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hawaii News Now"
+            },
+            "author": "HNN Staff",
+            "title": "Hawaii Island seeks to woo visitors for a rare show: 2 volcanoes erupting at once - Hawaii News Now",
+            "description": "Yes, it’s still safe to visit Hawaii Island, and no, you shouldn’t change your travel plans, officials say.",
+            "url": "https://www.hawaiinewsnow.com/2022/12/02/amid-mauna-loa-eruption-message-travelers-is-its-great-time-visit/",
+            "urlToImage": "https://gray-khnl-prod.cdn.arcpublishing.com/resizer/mlHbsIjZsy0yaLR5ZGRMcSyoZH8=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/KG3ZDZJNNNAFHBUT3BQQIJWK3M.jpg",
+            "publishedAt": "2022-12-02T23:39:00Z",
+            "content": "HONOLULU (HawaiiNewsNow) - Amid the ongoing eruption at Mauna Loa, officials are clearing up the confusion and concern among travelers.\r\nThe message: Yes, its still safe to visit Hawaii Island and no… [+2223 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Deidre McPhillips",
+            "title": "As respiratory viruses strain US health care systems, Biden administration tells states how it's ready to help - CNN",
+            "description": "Nearly 20,000 people in the United States were admitted to the hospital for flu last week, almost double the number of admissions from the week before, according to data updated Friday by the US Centers for Disease Control and Prevention.",
+            "url": "https://www.cnn.com/2022/12/02/health/flu-respiratory-viruses-hospitalization-increase/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220912081440-01-flu-shot-stock.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-02T23:35:00Z",
+            "content": "Nearly 20,000 people in the United States were admitted to the hospital for flu last week, almost double the number of admissions from the week before, according to data updated Friday by the US Cent… [+4752 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Raf Casert, Fatima Hussein",
+            "title": "G-7 joins EU on $60-per-barrel price cap on Russian oil - The Associated Press - en Español",
+            "description": "WASHINGTON (AP) — The Group of Seven nations and Australia joined the European Union on Friday in adopting a $60-per-barrel price cap on Russian oil, a key step as Western sanctions aim to reorder the global oil market  to prevent price spikes and starve Pres…",
+            "url": "https://apnews.com/article/putin-health-covid-prices-european-union-65de1c4934227208bfa68bb7d4c47716",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/31f7d744b4324baeb75c02b2e77fc53e/3000.webp",
+            "publishedAt": "2022-12-02T22:35:14Z",
+            "content": "WASHINGTON (AP) The Group of Seven nations and Australia joined the European Union on Friday in adopting a $60-per-barrel price cap on Russian oil, a key step as Western sanctions aim to reorder the … [+5556 chars]"
+        }
+    ]
+}
